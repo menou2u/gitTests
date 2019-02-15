@@ -1,1 +1,3 @@
 Ecris depuis master
+
+On modifie fichier1 avant de brancher pour voir
